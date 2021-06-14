@@ -1,0 +1,7 @@
+/* раздвигаем блоки по ширине футера по оси-х*/
+.footer__columns {
+  width: 90%;
+  margin: 0 auto 0;
+  display: flex;
+  justify-content: space-between;
+}

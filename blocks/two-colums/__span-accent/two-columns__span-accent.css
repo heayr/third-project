@@ -1,0 +1,4 @@
+/* выделяем текст жирным шрифтом */
+.two-columns__span-accent {
+  font-weight: bold;
+}

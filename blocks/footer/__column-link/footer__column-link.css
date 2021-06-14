@@ -1,0 +1,10 @@
+/* главные настройки ссылок выравнивание по цетру иконок и текста  */
+.footer__column-link {
+  color: #f2f2f2;
+  text-decoration: none;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: initial;
+  display: flex;
+  align-items: center;
+}

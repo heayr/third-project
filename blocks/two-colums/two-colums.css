@@ -1,0 +1,6 @@
+/* развигаем блоки по краям родителя при ширине 80% от максимальной ширины*/
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
